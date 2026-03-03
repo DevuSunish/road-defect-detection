@@ -1,20 +1,19 @@
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-**Languages**
+Languages
 Python | C | Java | JavaScript
 
-**Tools & Frameworks**
+Tools & Frameworks
 OpenCV | NumPy | React | Node.js | Express | PostgreSQL | Git
 
-**Concepts I Work With**
+Concepts I Work With
 Data Structures | OOP | Image Processing | REST APIs | Database Design
 
 ---
 
-## 📌 Featured Project
+📌 Featured Project
 
-### 🚧 Automated Road Surface Defect Detection
+🚧 Automated Road Surface Defect Detection
 
 A lightweight pothole detection system built using classical Computer Graphics and Image Processing techniques without deep learning.
 
@@ -25,7 +24,7 @@ A lightweight pothole detection system built using classical Computer Graphics a
 
 ---
 
-## 🌱 What I'm Working On
+🌱 What I'm Working On
 
 * Improving real-time detection systems
 * Building structured backend architectures
@@ -33,7 +32,7 @@ A lightweight pothole detection system built using classical Computer Graphics a
 
 ---
 
-## 🎯 Goals
+🎯 Goals
 
 * Contribute to impactful tech projects
 * Build scalable systems
@@ -41,7 +40,7 @@ A lightweight pothole detection system built using classical Computer Graphics a
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 
 Feel free to explore my repositories and collaborate on interesting ideas.
 
